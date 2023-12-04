@@ -72,7 +72,7 @@
 
  ##  ✍️ Quote
 <p align="center">
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=What%20you%20focus%20on%20expands)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=What%20you%20focus%20on%20expands" />
 </p>
 <!--
 **Hermacle/hermacle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
