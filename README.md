@@ -27,7 +27,9 @@
     <a href="https://m.me/herma.kih" target="_blank">
         <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Hermacle-Messenger" />
     </a>
-</p>
+</p> 
+
+#. About Me : 
 
 <!--
 **Hermacle/hermacle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
