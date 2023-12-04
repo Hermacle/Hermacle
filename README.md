@@ -33,7 +33,7 @@
 <p>
  <img align="right" width="350" src="./asserts/gif-hermacle.gif" alt="Coding gif" />
   <br />
- <ul style="list-style-type: none;">
+ <ul>
    <li>✌️ Enjoy to do programming and sharing knowledge </li>
    <li>❤ Love to writing code and learning new features</li>
  </ul>
