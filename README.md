@@ -31,7 +31,7 @@
 
 ##  About me :
 <p>
- <img align="right" width="350" src="./asserts/gif-hermacle.gif" alt="Coding gif" />
+ <img align="right" width="100" src="./asserts/gif-hermacle.gif" alt="Coding gif" />
   <br />
  <ul>
    <li>✌️ Enjoy to do programming and sharing knowledge </li>
