@@ -69,11 +69,6 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
- ##  ✍️ Quote
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=What%20you%20focus%20on%20expands" />
-</p>
 <!--
 **Hermacle/hermacle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
