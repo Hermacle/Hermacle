@@ -29,15 +29,17 @@
     </a>
 </p> 
 
-##  About me :
+## About me :
+
 <p>
- <img align="right" width="160" src="./asserts/gif-hermacle.gif" alt="Coding gif" />
+  <img align="right" width="160" src="./asserts/gif-hermacle.gif" alt="Coding gif" style="max-width: 100%;" />
   <br />
- <ul>
-   <li>✌️ Enjoy to do programming and sharing knowledge </li>
-   <li>❤ Love to writing code and learning new features</li>
- </ul>
+  <ul style="width: 100%;">
+    <li>✌️ Enjoy to do programming and sharing knowledge </li>
+    <li>❤ Love to writing code and learning new features</li>
+  </ul>
 </p>
+
 
 
 ##  GitHub Stats :
