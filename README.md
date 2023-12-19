@@ -43,7 +43,7 @@ I am a web developer with expertise in frontend technologies such as HTML, CSS, 
 
   </p>
   <p align="center">
-  <img src="https://github.com/Hermacle/hermacle/raw/main/asserts/gif-hermacle.gif" alt="Coding gif" style="max-width: 60%;"  />
+  <img src="https://github.com/Hermacle/hermacle/raw/main/asserts/gif-hermacle.gif" alt="Coding gif" style="max-width: 60%"  />
   </p>
 </p>
 
