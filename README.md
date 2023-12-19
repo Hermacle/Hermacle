@@ -1,12 +1,12 @@
 <!-- Intro  -->
 
-<h3 align="center">Hey There !, I am Hermacle Kihenyegho</h3>
+<h4 align="center">Hey! I am Hermacle Kihenyegho</h4>
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Hermacle+Kihenyegho">「 Google Me 」</a>
+    🕸 <a href="https://www.google.com/search?q=Hermacle+Kihenyegho"> Google Me</a>
     <br>
-    「 <b> I am a Web application developer </b> 」
+    <b> I am a Web application Developer </b>
     <br>
   </samp>
 </p>
@@ -29,20 +29,25 @@
     </a>
 </p> 
 
-## About me :
+## About me  :
 
-<p>
-  <img align="right" width="160" src="./asserts/gif-hermacle.gif" alt="Coding gif" style="max-width: 100%;" />
-  <br />
-  <ul style="width: 100%;">
-    <li>✌️ Enjoy to do programming and sharing knowledge </li>
-    <li>❤ Love to writing code and learning new features</li>
-  </ul>
+<p style="display: flex; flex-wrap: wrap;">
+  <p>
+    
+I am a web developer with expertise in frontend technologies such as HTML, CSS, Sass, Bootstrap, Tailwind, and React. Additionally, I have proficiency in backend development using PHP and MySQL. My goal is to create seamless and engaging web experiences while also exploring web design and blogging. <br>
+<ul>
+    <li>I am ready to collaborate,</li>
+    <li>Share my experience</li>
+    <li>Discover new challenges to enhance it.</li>
+</ul>
+
+  </p>
+  <p align="center">
+  <img src="https://github.com/Hermacle/hermacle/raw/main/asserts/gif-hermacle.gif" alt="Coding gif" style="max-width: 60%;"  />
+  </p>
 </p>
 
-
-
-##  GitHub Stats :
+##  GitHub Stats 📊:
 <p align="center">
   <a href="https://github.com/hermacle">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hermacle&theme=radical&border=7F3FBF&background=0D1117" alt="Hermacle's GitHub streak"/>
@@ -57,8 +62,8 @@
   <a href="https://github.com/hermacle"> 
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hermacle&custom_title=Hermacle%20Kihenyegho's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" />
 </p>
- 
-##  Use To Code : 
+
+## My toolbox 😎 : 
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -69,7 +74,17 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-273849?style=for-the-badge&logo=asana&logoColor=F87707)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
 
 <!--
 **Hermacle/hermacle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
