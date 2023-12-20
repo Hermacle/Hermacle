@@ -26,16 +26,19 @@
     </a>
     <a href="https://m.me/herma.kih" target="_blank">
         <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Hermacle-Messenger" />
-    </a>
+    </a>  
+    
 </p> 
+
+ 
 
 ## About me  :
 
 <p style="display: flex; flex-wrap: wrap;">
   <p>
     
-I am a web developer with expertise in frontend technologies such as HTML, CSS, Sass, Bootstrap, Tailwind, and React. Additionally, I have proficiency in backend development using PHP and MySQL. My goal is to create seamless and engaging web experiences while also exploring web design and blogging. <br>
-<ul>
+<span style="font-size:17px"> I am a web developer with expertise in frontend technologies such as HTML, CSS, Sass, Bootstrap, Tailwind, and React. Additionally, I have proficiency in backend development using PHP and MySQL. My goal is to create seamless and engaging web experiences while also exploring web design and blogging.</span> <br>
+<ul style="list-style-type:square; font-weight:300; font-size:17px">
     <li>I am ready to collaborate,</li>
     <li>Share my experience</li>
     <li>Discover new challenges to enhance it.</li>
