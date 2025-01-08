@@ -77,7 +77,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-EF3340?style=for-the-badge&logo=laravel&logoColor=white)
 ![API RESTful](https://img.shields.io/badge/API-005571?style=for-the-badge&logo=api&logoColor=white)
-![Eloquent ORM](https://img.shields.io/badge/Eloquent-FF2D55?style=for-the-badge&logo=laravel&logoColor=white)  
+![Eloquent ORM](https://img.shields.io/badge/Eloquent-FF2D55?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
@@ -90,7 +90,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Asana](https://img.shields.io/badge/Asana-273849?style=for-the-badge&logo=asana&logoColor=F87707)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
  
 
 
