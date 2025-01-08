@@ -67,8 +67,7 @@
 </p>
 
 ## My toolbox 😎 : 
-
-<div align="center">
+ 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -92,7 +91,7 @@
 ![Asana](https://img.shields.io/badge/Asana-273849?style=for-the-badge&logo=asana&logoColor=F87707)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 
-</div>
+ 
 
 
 <!--
